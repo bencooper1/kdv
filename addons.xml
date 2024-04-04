@@ -557,7 +557,7 @@ Nhằm tối ưu trải nghiệm của người dùng
 	</extension>
 </addon>
 
-<addon id="plugin.video.vnmedia" name="VN Media" version="4.7.5" provider-name="mkendo">
+<addon id="plugin.video.vnmedia" name="VN Media" version="4.7.3" provider-name="mkendo">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.codequick" version="0.0.1"/>
