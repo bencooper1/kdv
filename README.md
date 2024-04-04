@@ -1,4 +1,4 @@
 # kodivietnam.github.io
-Thêm link nguồn bên dưới vào trình Quản lý tập tin và cài đặt **kodivietnam-0.0.1.zip**
+Thêm link nguồn bên dưới vào trình Quản lý tập tin và cài đặt **kdv.zip**
 
-[https://kodivietnam.github.io/](https://kodivietnam.github.io/)
+[https://bencooper1.github.io/](https://bencooper1.github.io/)
